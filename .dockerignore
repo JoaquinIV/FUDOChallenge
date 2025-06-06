@@ -1,0 +1,15 @@
+# Ignorar el directorio de git
+.git
+
+# Ignorar archivos de configuración específicos del editor/IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de registro de Docker
+docker-compose.logs
+
+# Ignorar gemas descargadas localmente (se instalarán dentro del contenedor)
+vendor/bundle/
+
+# Ignorar cualquier archivo de entorno local
+.env 

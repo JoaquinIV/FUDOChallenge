@@ -1,0 +1,11 @@
+# Ignorar el directorio de dependencias de Bundler
+/.bundle
+/vendor/bundle
+
+# Ignorar archivos de entorno local.
+.env
+
+# Ignorar logs y archivos temporales
+/log/*
+!/log/.keep
+/tmp 

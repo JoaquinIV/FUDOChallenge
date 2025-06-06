@@ -1,0 +1,1 @@
+HTTP (Protocolo de Transferencia de Hipertexto) es el protocolo para la comunicación en la World Wide Web. Funciona como un sistema de solicitud y respuesta entre un cliente (navegador) y un servidor para intercambiar información y recursos, como páginas web o APIs. Es la base de la web. 

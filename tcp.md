@@ -1,0 +1,1 @@
+TCP (Protocolo de Control de Transmisión) es un protocolo fundamental de Internet. Asegura que los datos se envíen de forma fiable y ordenada entre dos dispositivos, estableciendo una conexión. Verifica la entrega completa y sin errores de la información. 

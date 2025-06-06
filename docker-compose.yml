@@ -1,0 +1,15 @@
+services:
+  app:
+
+    build: .
+    
+    ports:
+      - "9292:9292"
+      
+    volumes:
+      - .:/usr/src/app
+      
+    env_file:
+      - .env
+
+    container_name: fudo-challenge-app 
